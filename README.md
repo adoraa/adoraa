@@ -12,4 +12,4 @@ I'm a Technical Writer with a background in Software Engineering.
 
 If there's something interesting to learn, build, or explain, I'm probably interested.
 
-**Let's connect:** [LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/adoraonyile/)) · [Email](mailto:onyileadora@gmail.com?subject=Inquiry%20About%20Your%20Services&body=Hi%20Adora,%0A%0AI%20would%20like%20to%20get%20more%20information%20about...)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/adoraonyile/) · [Email](mailto:onyileadora@gmail.com?subject=Inquiry%20About%20Your%20Services&body=Hi%20Adora,%0A%0AI%20would%20like%20to%20get%20more%20information%20about...)
